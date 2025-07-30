@@ -1,0 +1,1 @@
+pyinstaller --clean --onefile -i NONE YOLO.py
